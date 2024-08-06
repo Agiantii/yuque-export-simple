@@ -1,2 +1,3 @@
 cookie: your_cookie
 target_dir: /path/to/your/target_dir
+sleep_time: 0.5
