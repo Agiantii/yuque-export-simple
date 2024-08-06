@@ -165,5 +165,5 @@ cython_debug/
 #.idea/
 
 
-#export_path
-./yuque
+
+test_config.yaml
